@@ -1,3 +1,16 @@
+After cloing the project  use 
+```
+npm i
+```
+to install packages and 
+
+```
+npm run dev
+```
+to run project
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
